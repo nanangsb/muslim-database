@@ -5,4 +5,5 @@
 - ▶️ transliteration https://github.com/maqsats/Quran-Transliteration-
 - ▶️ wbw aba indopak https://github.com/naveed-ahmad/Quran-text
 - ▶️ wbw database ttps://github.com/hosein7hosein/Quran_Full_Database_Word_By_Word
-https://github.com/salamquran/SalamQuran-mysql-words
+- https://github.com/salamquran/SalamQuran-mysql-words
+- pdf indopak per jus https://github.com/muktyas/quranmuks/tree/master
