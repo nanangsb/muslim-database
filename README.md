@@ -7,3 +7,5 @@
 - ▶️ wbw database ttps://github.com/hosein7hosein/Quran_Full_Database_Word_By_Word
 - https://github.com/salamquran/SalamQuran-mysql-words
 - pdf indopak per jus https://github.com/muktyas/quranmuks/tree/master
+- Quran Data & font muliple format KFGQPC https://github.com/ibnhazm/KFGQPC
+- 
